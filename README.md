@@ -35,6 +35,6 @@ pip install pandas pygmt
 python plot_depth.py
 ```
 
-![Depth vs Longitudes](depth-long-plot.png "Depth vs Longitudes")
+![Depth vs Longitudes](docs/depth-long-plot.png "Depth vs Longitudes")
 
-![Depth vs Latiudes](depth-lat-plot.png "Depth vs Latiudes")
+![Depth vs Latiudes](docs/depth-lat-plot.png "Depth vs Latiudes")
